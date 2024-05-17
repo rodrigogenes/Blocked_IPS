@@ -73,6 +73,7 @@
 116.253.24.240
 36.248.54.138
 119.188.86.194
+131.188.40.189
 asyncfunctionapi.com
 tulip18.com
 seed.nimiqchina.com
@@ -273,3 +274,5 @@ service-domain.xyz
 shsthepapercut.com
 ciccde.edu.py
 codas-thompson.com.py
+munisantamaria.gob.pe
+lojamaxinutri.com.br
