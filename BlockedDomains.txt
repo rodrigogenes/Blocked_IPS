@@ -58,6 +58,7 @@
 161.97.110.203
 85.31.46.137
 82.117.255.127
+104.244.73.131
 asyncfunctionapi.com
 tulip18.com
 seed.nimiqchina.com
@@ -226,3 +227,16 @@ www.colfacor.org.ar
 www.dailyprizehub.com
 www.apkfiles.com
 viajescautivatours.com
+static.s123-cdn-static-c.com
+da.gd
+resourcewebsite.singoo.cc
+www.s9x-w32.de
+lladocomunicacion.com
+www.fastpctools.com
+download.bluesprig.com
+jqscr.com
+iptrafic.ru
+clipsold.com
+nullreferer.com
+perf.cdnads.com
+email-fake.com
