@@ -1,4 +1,3 @@
-asyncfunctionapi.com
 203.205.136.163
 157.185.163.159
 199.59.243.222
@@ -56,6 +55,9 @@ asyncfunctionapi.com
 212.8.242.104
 185.2.81.28
 107.180.25.39
+161.97.110.203
+85.31.46.137
+asyncfunctionapi.com
 tulip18.com
 seed.nimiqchina.com
 gamehosting.top
@@ -222,4 +224,4 @@ demo.wphash.com
 www.colfacor.org.ar
 www.dailyprizehub.com
 www.apkfiles.com
-161.97.110.203
+viajescautivatours.com
