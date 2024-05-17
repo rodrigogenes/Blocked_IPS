@@ -60,6 +60,7 @@
 82.117.255.127
 104.244.73.131
 107.180.25.39
+216.239.34.21
 asyncfunctionapi.com
 tulip18.com
 seed.nimiqchina.com
@@ -254,3 +255,4 @@ sayhueque.com
 elasticitysynthetic.cn
 descargas.ciudaddejuegos.com
 ltgak31.com
+start.apistatexperience.com
