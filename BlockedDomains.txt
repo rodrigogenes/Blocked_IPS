@@ -66,6 +66,7 @@
 13.113.204.244
 45.130.201.22
 134.19.178.212
+185.23.214.111
 asyncfunctionapi.com
 tulip18.com
 seed.nimiqchina.com
