@@ -651,3 +651,4 @@ tecnomed.com.py
 storage.webfiledata.com
 laving.cc
 apkgstore.co
+jcpsp.pk
