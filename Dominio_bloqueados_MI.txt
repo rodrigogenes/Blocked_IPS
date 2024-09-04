@@ -113,3 +113,4 @@ tradingview.binary.com
 logs.netflix.com
 netflix.com
 push.prod.dradis.netflix.com
+dais7nsa.shop
