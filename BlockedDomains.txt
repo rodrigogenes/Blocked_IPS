@@ -122,6 +122,8 @@
 109.120.157.137
 94.142.241.43
 185.208.8.133
+94.130.10.179
+45.140.188.55
 asyncfunctionapi.com
 sqrx.asyncfunctionapi.com
 app.asyncfunctionapi.com
