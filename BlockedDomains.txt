@@ -191,6 +191,9 @@ open.classicpartnerships.com
 begemot-rus.com
 file.fm
 www.mauriziogalluzzo.it
+a.dnspod.com
+b.dnspod.com
+c.dnspod.com
 mustaqim.org
 jquery0.com
 bibleall.net
