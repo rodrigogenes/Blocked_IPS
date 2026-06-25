@@ -964,3 +964,4 @@ cam-es.com
 download.cdn-televzr.com
 ajax.googleaips.net
 www.pc-waweb.com
+hotm.io
