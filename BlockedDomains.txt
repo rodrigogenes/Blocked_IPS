@@ -965,3 +965,5 @@ download.cdn-televzr.com
 ajax.googleaips.net
 www.pc-waweb.com
 hotm.io
+commetr.com
+www.e-igr.com
