@@ -1008,3 +1008,5 @@ telemetryloop.net
 infodatalis.com
 starloom.store
 cdn.pzw.io
+multiatend.com.br
+curase.shop
